@@ -101,7 +101,7 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" width="80%"/>
+<img src="https://leetcard.jacoblin.cool/Vaibhav1104?theme=dark&font=Fira%20Code&ext=heatmap" width="80%"/>
 
 </div>
 
