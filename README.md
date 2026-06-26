@@ -85,13 +85,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-1430&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-1430&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-1430&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-1430&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br><br>
 
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=Vaibhav-1430&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Vaibhav-1430&theme=tokyonight&hide_border=true"/>
 
 </div>
 ---
@@ -99,7 +99,6 @@
 <!-- ===================== LEETCODE STATS ===================== -->
 ## 🧩 LeetCode Stats
 
-> ⚠️ **Replace `YOUR_LEETCODE_USERNAME` below with your actual LeetCode username** (the name in your profile URL: `leetcode.com/u/YOUR_LEETCODE_USERNAME`).
 
 <div align="center">
 
